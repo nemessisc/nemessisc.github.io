@@ -1,18 +1,9 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About Me
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Greetings! 👋 I'm a security engineer on a **3-year journey** dedicated to fortifying the digital world, specializing in web application security. I've honed my skills in detecting cyber threats ranging from OWASP TOP 10 . Beyond the realm of cybersecurity, you'll find me exploring the latest tech gadgets and tinkering with my espresso machine. Let's keep the internet safe while savoring life's simple pleasures. ☕🔒
