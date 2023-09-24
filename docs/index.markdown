@@ -5,20 +5,21 @@
 layout: default
 ---
 
-
-[Some Page here](./about.markdown)
+<!-- #[Some Page here](./about.markdown) -->
+[Blog Posts](./_posts/2023-09-23-welcome-to-jekyll.markdown)
 
 ### About Me
 
-Greetings! 👋 I'm a security engineer on a **3-year journey** dedicated to fortifying the digital world, specializing in web application security. I've honed my skills in detecting cyber threats ranging from OWASP TOP 10 . Beyond the realm of cybersecurity, you'll find me exploring the latest tech gadgets and tinkering with my espresso machine. Let's keep the internet safe while savoring life's simple pleasures. ☕🔒
-
+Hello World! 👋 I'm a security engineer specializing in web application security. I've honed my skills in detecting, exploiting, and helping developers fix vulnerabilities in their web applications. Beyond the realm of cybersecurity, you'll find me fiddling with hardware and tinkering with my espresso machine ☕. 
 
 
 ### Socials
 
-*   [Linkedin](https://www.linkedin.com/in/nemesis-c-a6514815b/)
 *   [Hardware Tutorials](https://www.instructables.com/member/NemesisC/)
+* 	[Linkedin](https://www.linkedin.com/in/nemesis-c-a6514815b/)
+*   [Twitter](https://twitter.com/nemesis_pkg)
 *   [Github](https://github.com/nemessisc)
+
 
 
 
