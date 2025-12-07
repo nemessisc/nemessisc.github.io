@@ -21,12 +21,15 @@
 title: Nemesis Contreras
 description: Senior Application Security Engineer
 
-#Socials
+# Social links for header buttons
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://espresso-sec.com" # the base hostname 
 linkedin_url: "https://www.linkedin.com/in/nemesis-c-a6514815b/"
 blog_url: "/blog"  # or full URL if hosted elsewhere
 twitter_url: "https://twitter.com/iznemesis"
+
+# Blog post URL structure (clean URLs without dates)
+permalink: /blog/:title/
 
 # Build settings
 #plugins:
