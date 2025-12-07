@@ -1,7 +1,7 @@
 ---
 # To modify the layout https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
+title: Nemesis Contreras
 ---
 
 
