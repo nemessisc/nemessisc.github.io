@@ -4,6 +4,7 @@ title: "React2Shell- Achieving RCE in React Server Components"
 date: 2025-12-05
 categories: security
 ---
+[← Home](/) | [← Blog](/blog)
 
 # React2Shell: Achieving RCE in React Server Components
 
