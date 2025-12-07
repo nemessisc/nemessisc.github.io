@@ -10,6 +10,8 @@ categories: security
 
 For those following react2shell exploits, I finally managed to successfully exploit RCE. This was purposely done in a controlled homelab environment for security research purposes, especially since there are now cyber threat groups from China exploiting these vulnerabilities.
 
+<!--more-->
+
 ## Background
 
 At a high level, this vulnerability affects the React Flight Protocol used in React Server Components (RSC) to serialize data and components when they need to be sent to the client and then deserialize them. The objects are stored in a chunks array that use colons as delimiters to reference them.
