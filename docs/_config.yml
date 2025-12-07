@@ -21,7 +21,7 @@
 title: Nemesis Contreras
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Security Engineer
+Senior Application Security Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nemesis_pkg
