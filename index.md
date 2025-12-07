@@ -4,7 +4,6 @@
 layout: default
 ---
 
-[Blog Posts](./_posts/2023-09-23-welcome-to-jekyll.markdown)
 
 ### Greetings & Salutations
 
